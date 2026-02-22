@@ -1,7 +1,7 @@
 # lab - pip install and PEP8
 
-![](https://github.com/aryan00-hub/lab-cowsay/workflows/flake8/badge.svg)&nbsp;
-![](https://github.com/aryan00-hub/lab-cowsay/workflows/command_line/badge.svg)&nbsp;
+![](https://github.com/mikeisbicki/lab-cowsay/workflows/flake8/badge.svg)&nbsp;
+![](https://github.com/mikeisbicki/lab-cowsay/workflows/command_line/badge.svg)&nbsp;
 
 **About:**
 This lab will have you practice installing python libraries and running *linters*.
